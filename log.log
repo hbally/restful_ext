@@ -1,0 +1,18 @@
+2017-11-29 15:41:45,115 - INFO - restful_ext.py - log_mobile_request - 91 - Handle mobile request:
+        func: api_create_diary
+        args: ()
+        kwargs: {u'content': u'today is goood.',
+ 'testkey': 'testvalue',
+ u'title': u'hello world',
+ u'user_id': 2}
+2017-11-29 15:41:45,115 - INFO - restful_ext.py - log_mobile_response - 84 - Return mobile response:
+        response: {'data': {'msg': '----ok----'}, 'rc': 0}
+2017-11-29 15:46:12,726 - INFO - restful_ext.py - log_mobile_request - 91 - Handle mobile request:
+        func: api_create_diary
+        args: ()
+        kwargs: {u'content': u'today is goood.',
+ 'testkey': 'testvalue',
+ u'title': u'hello world',
+ u'user_id': 2}
+2017-11-29 15:46:12,726 - INFO - restful_ext.py - log_mobile_response - 84 - Return mobile response:
+        response: {'data': {'msg': '----ok----'}, 'rc': 0}
